@@ -5,12 +5,6 @@
 
 Исходный источник: https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data?resource=download
 
-# Настройка виртуального окружения
-Клонировать репозиторий:
-
-git clone https://github.com/Julik-228/Data-management-Engineering.git
-cd Data-management-Engineering
-
 # Создать виртуальное окружение:
 
 python -m venv .venv
