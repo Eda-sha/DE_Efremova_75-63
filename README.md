@@ -13,6 +13,10 @@ python -m venv .venv
 
 .\.venv\Scripts\activate.ps1
 
+# Установить необходимые зависимости:
+
+pip install -r requirements.txt
+
 # Второе задание:
 
 <img width="1070" height="537" alt="image" src="https://github.com/user-attachments/assets/99fbde14-c9a4-495e-b6f6-e040c091eb4b" />
