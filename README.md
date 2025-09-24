@@ -5,6 +5,20 @@
 
 Исходный источник: https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data?resource=download
 
+# Настройка виртуального окружения
+Клонировать репозиторий:
+
+git clone https://github.com/Julik-228/Data-management-Engineering.git
+cd Data-management-Engineering
+
+# Создать виртуальное окружение:
+
+python -m venv .venv
+
+# Активировать виртуальное окружение:
+
+.\.venv\Scripts\activate.ps1
+
 # Второе задание:
 
 <img width="1070" height="537" alt="image" src="https://github.com/user-attachments/assets/99fbde14-c9a4-495e-b6f6-e040c091eb4b" />
