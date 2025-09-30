@@ -17,6 +17,11 @@ python -m venv .venv
 
 pip install -r requirements.txt
 
-# Второе задание:
+# Запуск программы:
+ 
+Для загрузки таблицы необходимо запустить файл data_loader.py
 
+вывод первых 10 строк таблицы:
 <img width="1070" height="537" alt="image" src="https://github.com/user-attachments/assets/99fbde14-c9a4-495e-b6f6-e040c091eb4b" />
+
+Для приведения типов данных запустите файл data_auto_convert.py
