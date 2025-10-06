@@ -25,3 +25,6 @@ pip install -r requirements.txt
 <img width="1070" height="537" alt="image" src="https://github.com/user-attachments/assets/99fbde14-c9a4-495e-b6f6-e040c091eb4b" />
 
 Для приведения типов данных запустите файл data_auto_convert.py
+
+Для вывода данных по API перейдите в папку: 
+[api_example](C:\Users\Dasha\Documents\Научная деятельность\Альметьевск\Data_engeneering\api_example)

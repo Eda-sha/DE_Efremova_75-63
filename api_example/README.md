@@ -1,13 +1,15 @@
 # Данная программа выводит по api рандомные шутки в любом количестве
 
+Ссылка на API: https://official-joke-api.appspot.com/random_ten
+
 <!--установка-->
 У вас должны быть кстановлены [зависимости проекта] requirements.txt
 
 1. Клонирование репозитория 
 
-```git clone https://github.com/OkulusDev/Oxygen.git```
+```git clone https://github.com/Eda-sha/DE_Efremova_75-63.git```
 
-2. Переход в директорию Oxygen
+2. Переход в директорию 
 
 ```cd api_example```
 3. Создание виртуального окружения
