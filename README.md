@@ -27,4 +27,4 @@ pip install -r requirements.txt
 Для приведения типов данных запустите файл data_auto_convert.py
 
 Для вывода данных по API перейдите в папку: 
-[api_example](.\api_example)
+[api_example](./api_example)
