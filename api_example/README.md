@@ -27,6 +27,9 @@
 6. Запуск скрипта для демонстрации возможностей Oxygen
 
 ```python3 api_reader.py```
+Скриншот выполнения программы: 
+<img width="1394" height="548" alt="image" src="https://github.com/user-attachments/assets/8c5d2dd9-0452-411a-9c8e-bf8b03cdc948" />
+
 
 ## Зависимости
 Эта программа зависит от интепретатора Python версии 3.7 или выше, PIP 23.2.1 или выше. 
