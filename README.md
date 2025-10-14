@@ -28,3 +28,5 @@ pip install -r requirements.txt
 
 Для вывода данных по API перейдите в папку: 
 [api_example](./api_example)
+
+Весь процесс анализа и работы с данными в входном анализе данных (EDA) представлен в файле pharmacy_data_EDA.ipynb.
