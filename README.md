@@ -31,8 +31,10 @@ DE_Efremova_75-63/
 |   |   `-- requirements.txt
 |   |-- notebooks/
 |   |   `-- EDA_visual.ipynb
+|   |   `-- requirements.txt
 |   `-- src/
 |       `-- write_to_db.py
+|       `-- requirements.txt        
 |-- README.md
 `-- requirements.txt
 ```
