@@ -15,13 +15,12 @@
 ```text
 DE_Efremova_75-63/
 |-- etl/
-|   `-- etl/
-|       |-- __init__.py
-|       |-- __main__.py
-|       |-- extract.py
-|       |-- load.py
-|       |-- main.py
-|       `-- transform.py
+|   |-- __init__.py
+|   |-- __main__.py
+|   |-- extract.py
+|   |-- load.py
+|   |-- main.py
+|   `-- transform.py
 |-- others/
 |   |-- api_example/
 |   |   |-- .gitignore
